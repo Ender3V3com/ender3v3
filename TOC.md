@@ -1,0 +1,20 @@
+# SE
+- introduction to the printer
+    - what's in the box
+    - assembly
+    - hardware (specs, parts)
+    - software (firmware)
+    - recommended tools
+- printer calibration
+    - first launch ( +what to check: gantry, screws, hotend etc)
+    - ellis guide
+- printing process (how to use a slicer and send the files)
+- stock firmware (marlin)
+    - how to update the firmware
+- klipper
+    - why
+    - how
+- upgrades and mods
+- MAINTENACE
+- resources
+- FAQ
