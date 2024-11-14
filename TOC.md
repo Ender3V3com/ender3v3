@@ -11,6 +11,7 @@
 - printing process (how to use a slicer and send the files)
 - stock firmware (marlin)
     - how to update the firmware
+    - octoprint
 - klipper
     - why
     - how
