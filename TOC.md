@@ -19,10 +19,7 @@
     - springs/silicone spacers (4x18mm spacers, 4x20mm screws)
     - PEI plate
     - KE/K1 hotend + nozzles
-    - new shroud
-          - dual 4010
-          - single 4010
-          - dual 5015
+    - new shroud: dual 4010, single 4010, dual 5015
     - Y rails
     - X rails
     - filament dryer
