@@ -16,6 +16,18 @@
     - why
     - how
 - upgrades and mods
+    - springs/silicone spacers (4x18mm spacers, 4x20mm screws)
+    - PEI plate
+    - KE/K1 hotend + nozzles
+    - new shroud
+          - dual 4010
+          - single 4010
+          - dual 5015
+    - Y rails
+    - X rails
+    - filament dryer
+    - enclosure
+    - filter
 - MAINTENACE
 - resources
 - FAQ
