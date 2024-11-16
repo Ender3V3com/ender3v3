@@ -26,5 +26,8 @@
     - enclosure
     - filter
 - MAINTENACE
+    - nozzle change (when, how)
+    - lubing
+    - cleaning
 - resources
 - FAQ
