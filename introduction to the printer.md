@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Introduction to Creality V3 SE"
+permalink: /se/intro
+---
 # What's in the box
 
 Open the box. Inside, you will find:
