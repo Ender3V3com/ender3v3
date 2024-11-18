@@ -37,4 +37,4 @@ To assemble the printer:
 - connect the motors
 - plug the power cable in and turn on the printer
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hWy3ZpEaZsE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/hWy3ZpEaZsE/0.jpg)](http://www.youtube.com/watch?v=hWy3ZpEaZsE "Ender 3 V3 SE - Unboxing and Assembly")
