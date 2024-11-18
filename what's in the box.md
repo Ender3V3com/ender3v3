@@ -15,4 +15,4 @@ Open the box. Inside, you will find:
   - nozzle
   - SD card & reader
 
-![](assets/whats_in_the_box.png)
+![](assets/what's_in_the_box.png)
