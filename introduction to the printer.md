@@ -42,4 +42,4 @@ To assemble the printer:
 - connect the motors
 - plug the power cable in and turn on the printer
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/hWy3ZpEaZsE" frameborder="0" allowfullscreen></iframe>
+{% youtube hWy3ZpEaZsE %}
