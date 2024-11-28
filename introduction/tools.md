@@ -15,4 +15,4 @@ To make the tinkering process on the printer easier and more pleasant, we recomm
 - Pliers
 - M2x12 socket head screws
 
-*TBA*
+*MORE TO BE ANNOUNCED*
