@@ -19,7 +19,7 @@ Technical specification as provided by Creality:
 | Supported filament: |        PLA, PETG, TPU 95A        |
 |  Filament diameter: |              1.75mm              |
 |       Display:      |          colorful, 3.2"          |
-|      Software:      | Creality Print, Cura, Simplify3D |
+|      Software:      | Creality Print, Cura, Simplify3D, Orca Slicer, Prusaslicer |
 |   Operating mode:   |              SD card             |
 |     File format:    |        STL, OBJ, 3MF, AMF        |
 |   Supply voltage:   |      from 110 V to 240 V AC      |
