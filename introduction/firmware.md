@@ -5,7 +5,6 @@ permalink: /se/firmwware
 ---
 # Firmware
 
-## Firmware Overview
 
 The **Ender 3 V3 SE** runs on Creality's proprietary [firmware](https://www.creality.com/pages/download-ender-3-v3-se/), built on a customized version of [Marlin Firmware](https://marlinfw.org/). It is designed for ease of use while optimizing the printer's hardware capabilities, including automatic bed leveling and a colorful 3.2" display as user interface. 
 
