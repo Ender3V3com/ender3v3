@@ -12,7 +12,10 @@ To make the tinkering process on the printer easier and more pleasant, we recomm
 - Caliper
 - **Multimeter**
 - 6mm socket for nozzle change
-- Pliers
+- Pliers & Cutters
 - M2x12 socket head screws
+- Deburring tool
+- Bed Scraper
+- Scalpel/Xacto knife
 
 *MORE TO BE ANNOUNCED*
